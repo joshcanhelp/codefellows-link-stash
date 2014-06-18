@@ -12,6 +12,12 @@
 - Separation of concerns: http://www.c2.com/cgi/wiki?SeparationOfConcerns
 - Why use client-side MVCs: http://jster.net/blog/why-should-you-use-client-side-mvc-framework
 
+## Open Source
+- Why open source matters: https://www.fsf.org/about/what-is-free-software
+"The Javascript Trap" or why it's an important consideration specifically for javascript: https://www.gnu.org/philosophy/javascript-trap.html
+- Setting your Javascript Free: https://www.gnu.org/software/librejs/free-your-javascript.html
+
+
 ## Heroku
 - Heroku environment vars: https://devcenter.heroku.com/articles/config-vars
 - Node on Heroku: https://devcenter.heroku.com/articles/getting-started-with-nodejs
@@ -41,6 +47,7 @@
 
 ## Grunt
 - Grunt is not weird or hard: http://24ways.org/2013/grunt-is-not-weird-and-hard/
+- Creating your first Grunt plugin: http://javascriptplayground.com/blog/2014/01/creating-your-first-grunt-plugin/
 
 ## Git
 - Github on Codeschool (free): http://try.github.com
@@ -51,7 +58,9 @@
 - Nodeschool Stream Adventure: http://nodeschool.io/#stream-adventure
 
 ## Yeoman
-- Gettig started: http://yeoman.io/gettingstarted.html
+- Getting started: http://yeoman.io/gettingstarted.html
+- Benefits of creating your own Yeoman generators: http://projectpoppycock.com/roll-your-own-yeoman-generators/
+- Guide to creating Yeoman generators: http://yeoman.io/generators.html#writing-your-first-generator
 
 ## Express
 - Hello World server: http://code.tutsplus.com/tutorials/introduction-to-express--net-33367
