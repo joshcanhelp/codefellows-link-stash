@@ -1,4 +1,5 @@
 ## General
+- System setup: https://www.codefellows.org/blog/how-to-set-up-your-computer-for-full-stack-javascript-development
 - Git book: http://fsje.codefellows.org/
 - Google Chrome dev tools: http://discover-devtools.codeschool.com/
 - Crockford on JS: https://www.youtube.com/watch?v=JxAXlJEmNMg
@@ -53,6 +54,7 @@
 - Github on Codeschool (free): http://try.github.com
 
 ## Node.js
+- The Art of Node: https://github.com/maxogden/art-of-node/#the-art-of-node
 - Nodeschool Learn You Node: http://nodeschool.io/#learn-you-node 
 - Streams in Node: https://github.com/substack/stream-handbook
 - Nodeschool Stream Adventure: http://nodeschool.io/#stream-adventure
