@@ -90,6 +90,7 @@
 ## Backbone
 - A pragmatic guide to Backbone.js apps: http://pragmatic-backbone.com/
 - Backbone,js rules: http://geeks.bizzabo.com/post/83917692143/7-battle-tested-backbonejs-rules-for-amazing-web-apps
+- Developing Backbone.js Applications: http://addyosmani.github.io/backbone-fundamentals/
 
 ## Deployment, CI
 - Intro to TravisCI: http://code.tutsplus.com/tutorials/travis-ci-what-why-how--net-34771 
